@@ -4,7 +4,8 @@
 
 This project analyzes accident locations across India using data from the Ministry of Road Transport and Highways (MoRTH) and visualizes the spatial distribution of accident-prone areas (blackspots) using QGIS software. The goal is to identify high-risk areas and provide insights that can aid in improving road safety.
 
-*Project Overview*
+*Project Overview:*
+
 This project utilizes Geographic Information System (GIS) tools to map accident blackspots and perform spatial analysis. By pinpointing these areas, targeted interventions can be recommended to reduce accidents and enhance road safety across India. The most recent accident data up to 2021 has been used.
 
 *Key Objectives:*
@@ -29,6 +30,7 @@ This project utilizes Geographic Information System (GIS) tools to map accident 
 + Recommendations: Actionable insights for improving road safety.
 
 *Achievements*
+
 This project won the Runner-up position in a competitive academic program, recognizing its contribution to improving road safety using data-driven methods.
 
 *Installation*
