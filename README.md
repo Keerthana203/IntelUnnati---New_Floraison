@@ -1,6 +1,7 @@
 # IntelUnnati---New_Floraison
 
-**Accident Locations on Indian Roads**
+## Accident Locations on Indian Roads 
+
 This project analyzes accident locations across India using data from the Ministry of Road Transport and Highways (MoRTH) and visualizes the spatial distribution of accident-prone areas (blackspots) using QGIS software. The goal is to identify high-risk areas and provide insights that can aid in improving road safety.
 
 *Project Overview*
